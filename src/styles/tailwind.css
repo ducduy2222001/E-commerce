@@ -377,7 +377,7 @@
 .content__ItemPropsChil-btn::after {
   content: "";
   display: block;
-  width: calc(100% -2px);
+  width: calc(100% - 2px);
   height: 3px;
   background: rgb(88, 147, 241);
   margin-top: 2px;
